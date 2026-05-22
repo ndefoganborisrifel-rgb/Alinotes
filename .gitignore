@@ -1,0 +1,9 @@
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+backend/alinotes.db
+backend/src/alinotes.db
+frontend/dist/
+*.log
+.env
+.env.local
